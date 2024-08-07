@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https:/TheDataDesk/SirishaJP.github.io
+https://thedatadesk.github.io/
   
 ## Features 📋
 ⚡️ Fully Responsive\

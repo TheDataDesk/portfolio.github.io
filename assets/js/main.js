@@ -51,6 +51,7 @@
 
   // Activate/show sections on load with hash links
   if (window.location.hash) {
+    console.log("am I inside ??")
     var initial_nav = window.location.hash;
     if ($(initial_nav).length) {
       $('#header').addClass('header-top');
